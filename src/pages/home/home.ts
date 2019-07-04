@@ -1,5 +1,5 @@
 import { Nav } from 'ionic-angular';
-import { Component, ViewChild } from '@angular/core';
+import { Component } from '@angular/core';
 
 import { EnterPage } from '../enter/enter';
 
